@@ -1,0 +1,1 @@
+,Count,Dist*,Dist,Merit,PassDist*,1,1,1,1,1Dist,1,0,1,1,1Merit,1,0,0,1,1Pass,1,0,0,0,1Fail,1,0,0,0,0U,1,0,0,0,0Dist*-Dist*,1,1,1,1,1Dist*-Dist,1,0.5,1,1,1Dist-Dist,1,0,1,1,1Dist-Merit,1,0,0.5,1,1Merit-Merit,1,0,0,1,1Merit-Pass,1,0,0,0.5,1Pass-Pass,1,0,0,0,1
